@@ -3,7 +3,8 @@ layout: default
 title: Q’s Logs
 ---
 
-# These are our internal notes.
+# The engineering behind Marqui.
+_These are our internal notes.
 
 This site shows how Marqui really works.
 
