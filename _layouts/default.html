@@ -1,17 +1,50 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <title>{{ page.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{% if page.title %}{{ page.title }} — {% endif %}{{ site.title }}</title>
   <meta name="description" content="{{ site.description }}" />
 
-  <!-- Analytics can go here later -->
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/site.css" />
 </head>
+
 <body>
-  <main>
-    {{ content }}
+  <header class="header">
+    <div class="container">
+      <a class="brand" href="{{ site.baseurl }}/">
+        <span class="brand-mark">Q</span>
+        <span class="brand-name">Q’s Logs</span>
+      </a>
+      <nav class="nav">
+        <a href="{{ site.baseurl }}/">Home</a>
+        <a href="{{ site.baseurl }}/notes/meta/001-github-as-a-blog">Start here</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <article class="article">
+      {% if page.title %}
+        <h1>{{ page.title }}</h1>
+      {% endif %}
+
+      {% if page.date %}
+        <p class="meta">{{ page.date | date: "%Y-%m-%d" }}</p>
+      {% endif %}
+
+      <div class="content">
+        {{ content }}
+      </div>
+    </article>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        <span>© {{ "now" | date: "%Y" }} Marqui Group</span>
+        <span class="dot">·</span>
+        <span>Q’s Logs</span>
+      </div>
+    </footer>
   </main>
 </body>
 </html>
-
