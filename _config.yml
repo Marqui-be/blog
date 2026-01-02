@@ -4,3 +4,9 @@ markdown: kramdown
 theme: minima
 url: "https://logs.marqui.org"
 baseurl: ""
+defaults:
+  - scope:
+      path: "notes"
+    values:
+      layout: "note"
+
