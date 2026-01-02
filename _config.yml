@@ -9,4 +9,6 @@ defaults:
       path: "notes"
     values:
       layout: "note"
+plugins:
+  - jekyll-sitemap
 
