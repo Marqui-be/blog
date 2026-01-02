@@ -4,7 +4,7 @@ title: Q’s Logs
 ---
 
 # The engineering behind Marqui.
-_These are our internal notes.
+_These are our internal notes._
 
 This site shows how Marqui really works.
 
