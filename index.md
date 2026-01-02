@@ -3,82 +3,79 @@ layout: default
 title: Q’s Logs
 ---
 
-# Build more. Work less.  
-Design systems that actually give you freedom.
+# This is not a blog.  
+It’s a place where businesses are engineered.
 
-Q’s Logs is a public place where ideas turn into systems.
+Most companies are run on effort.
+More people. More meetings. More pressure.
 
-It is for people who want to do more with less.
-People who want clarity instead of chaos.
-People who want work to support life, not consume it.
+Here, the question is different:
 
-This is not a blog about productivity.
-It is not about hustle.
-And it is not about motivation.
+**What if a business could run with far less human load?**
 
-It is about **creative engineering**:
-using clear thinking, structure, and technology
-to make hard things simple, and possible.
+Q’s Logs is where that question is taken seriously —
+and tested in public.
 
 ---
 
-## Why this exists
+## What this site is for
 
-Most work today is heavier than it needs to be.
+This site is for people who want:
 
-Companies grow, but freedom shrinks.  
-Tools increase, but clarity disappears.  
-People work harder, yet feel stuck.
+- fewer decisions every day  
+- less operational noise  
+- systems that keep working when they step away  
 
-This is true for founders.  
-It is true for teams.  
-It is true for large organizations.
+Not next quarter.
+Not “someday”.
 
-Q’s Logs exists to explore a different way of working:
+**By design.**
 
-- start with a clear end goal  
-- imagine what *should* be possible  
-- then work backwards to design systems that make it real  
-
-Not by pushing people harder.  
-But by removing friction, waste, and unnecessary decisions.
+That includes founders.
+But also operators, leaders, and large organizations
+that feel the weight of complexity.
 
 ---
 
-## What becomes possible
+## The core idea
 
-When work is engineered instead of improvised,
-new things become realistic.
-
-For example:
-
-- A company that runs without constant meetings  
-- A team that moves fast without burnout  
-- Decisions that are made once, not every day  
-- Growth without losing control  
-- Technology that replaces stress, not people  
-
-These are not dreams.
+Most work problems are not people problems.
 They are design problems.
 
-This site explores how those problems can be solved.
+If you change the design:
+- effort goes down
+- clarity goes up
+- freedom appears as a side effect
+
+The method is simple, but uncomfortable:
+
+1. Decide what *should* be possible  
+2. Treat that as a design constraint  
+3. Engineer systems that make it unavoidable  
+
+No motivation.
+No heroics.
+No hustle.
 
 ---
 
-## Engineering, but for real life
+## What is different here
 
-Engineering does not mean “cold” or “technical”.
+Most content about business talks *around* the work.
 
-It means:
-- thinking clearly  
-- testing ideas in reality  
-- fixing weak points early  
-- building things that keep working when you step away  
+These logs document the work itself:
+- how decisions are reduced
+- how responsibility is encoded into systems
+- how technology replaces coordination, not people
 
-The same mindset that builds reliable systems
-can also build better businesses and better work lives.
+Some notes are technical.
+Some are strategic.
+All are written from real use.
 
-That is the core idea behind everything you’ll read here.
+No optimisation for attention.
+No optimisation for reach.
+
+Only for correctness.
 
 ---
 
@@ -86,19 +83,17 @@ That is the core idea behind everything you’ll read here.
 
 <span class="callout-label">2026 Public Experiment</span>
 
-In 2026, this way of thinking is pushed to the limit.
+In 2026, this approach is pushed to its limit.
 
-A real business is being operated using AI-driven systems.
-Not as a demo.
-Not as a theory.
-But as a live experiment.
+A real company is being operated with AI-driven systems.
+Not to impress.
+But to measure something very concrete:
 
-The goal is simple:
-see how much complexity, noise, and human overload
-can be removed — without breaking the business.
+**How much human effort can be removed  
+before performance breaks?**
 
-This experiment is relevant for:
-founders, operators, and large organizations alike.
+This matters for startups.
+It matters even more for large organizations.
 
 <a class="callout-link" href="/notes/2026/001-operating-a-company-as-a-system">
 Read the first log → Operating a Company as a System
@@ -108,32 +103,30 @@ Read the first log → Operating a Company as a System
 
 ---
 
-## How to use this site
+## If you read this site
 
-You don’t need to read everything.
-There is no order.
-There is no feed.
+You won’t find:
+- growth hacks
+- productivity tricks
+- motivational stories
 
-Each note explores one idea, system, or question.
-Some are practical.
-Some are conceptual.
-All are written from real use.
+You will find:
+- clear thinking
+- uncomfortable trade-offs
+- systems that either work or don’t
 
-Read what interests you.
-Leave the rest.
-Come back later.
-
-Over time, the pieces connect.
+Read selectively.
+Think slowly.
+Use what applies.
 
 ---
 
 ## Start here
 
-If you want a good entry point, these notes are useful:
-
 - [Why GitHub Is the Best Blog Platform for Serious Thinking](/notes/meta/001-github-as-a-blog)
-
+- [Content Is Infrastructure, Not Marketing](/notes/meta/002-content-as-a-system)
+- [Decision Latency as a Business Cost](/notes/systems/decision-latency)
 
 ---
 
-_This site is part of an ongoing public experiment by Marqui._
+_This site is part of an ongoing experiment by Marqui._
