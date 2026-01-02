@@ -60,22 +60,18 @@ All are grounded in real use.
 
 ---
 
-<div class="callout experiment">
+<div class="callout">
+  <span class="callout-label">2026 Public Experiment</span>
 
-<span class="callout-label">2026 Public Experiment</span>
+  <p>In 2026, part of this work is applied to a live experiment: operating a real company using AI-driven decision systems.</p>
 
-In 2026, part of this work is applied to a live experiment:
-operating a real company using AI-driven decision systems.
+  <p>The goal is not automation for its own sake, but to test where human judgment can be removed, constrained, or delayed without breaking the business.</p>
 
-The goal is not automation for its own sake,
-but to test where human judgment can be removed,
-constrained, or delayed without breaking the business.
-
-<a class="callout-link" href="/notes/2026/001-operating-a-company-as-a-system">
-Read the first log → Operating a Company as a System
-</a>
-
+  <a class="callout-link" href="/notes/2026/001-operating-a-company-as-a-system">
+    Read the first log → Operating a Company as a System
+  </a>
 </div>
+
 
 
 ---
