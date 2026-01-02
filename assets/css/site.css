@@ -67,6 +67,20 @@ a:hover{ border-bottom-color: rgba(255,255,255,.45); }
   border-radius:18px;
 }
 
+.article h1:first-of-type{
+  font-size: 46px;
+  max-width: 16ch;
+}
+.article h1:first-of-type + p{
+  font-size: 18px;
+  color: rgba(242,243,245,.85);
+  max-width: 48ch;
+}
+.article > h2{
+  margin-top: 48px;
+}
+
+
 h1,h2,h3{
   line-height:1.2;
   letter-spacing:.2px;
