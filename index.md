@@ -10,7 +10,7 @@ Q’s Logs is a public place where ideas turn into systems.
 
 It is for people who want to do more with less.
 People who want clarity instead of chaos.
-People who want work to support life — not consume it.
+People who want work to support life, not consume it.
 
 This is not a blog about productivity.
 It is not about hustle.
@@ -18,7 +18,7 @@ And it is not about motivation.
 
 It is about **creative engineering**:
 using clear thinking, structure, and technology
-to make hard things simple — and possible.
+to make hard things simple, and possible.
 
 ---
 
