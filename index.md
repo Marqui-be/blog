@@ -3,68 +3,82 @@ layout: default
 title: Q’s Logs
 ---
 
-# Q’s Logs
+# Build more. Work less.  
+Design systems that actually give you freedom.
 
-Q’s Logs is a public place where I think in the open.
+Q’s Logs is a public place where ideas turn into systems.
 
-Here, I write about how companies can be built in a calmer, more structured way.
-Not with motivation or hype, but with systems that actually hold up over time.
+It is for people who want to do more with less.
+People who want clarity instead of chaos.
+People who want work to support life — not consume it.
 
-This is not a blog with tips.
-It is not a course.
-And it is not content written to perform.
+This is not a blog about productivity.
+It is not about hustle.
+And it is not about motivation.
 
-It is a working log of how decisions are made, tested, and sometimes changed.
+It is about **creative engineering**:
+using clear thinking, structure, and technology
+to make hard things simple — and possible.
 
 ---
 
 ## Why this exists
 
-Most founders don’t fail because they lack ideas.
-They fail because everything becomes heavy as the company grows.
+Most work today is heavier than it needs to be.
 
-More meetings.
-More pressure.
-More effort.
-But not much more return.
+Companies grow, but freedom shrinks.  
+Tools increase, but clarity disappears.  
+People work harder, yet feel stuck.
 
-I’ve lived that problem myself.
+This is true for founders.  
+It is true for teams.  
+It is true for large organizations.
 
-These logs exist to explore another path:
-building companies the way engineers build systems.
+Q’s Logs exists to explore a different way of working:
 
-Start from the end goal.
-Work backwards.
-Remove weak points one by one.
-Design businesses that can run without constant heroics.
+- start with a clear end goal  
+- imagine what *should* be possible  
+- then work backwards to design systems that make it real  
 
-What you’ll find here is not opinion.
-It is thinking in motion.
-
-Some notes are rough.
-Some are revised.
-All are written from real use.
+Not by pushing people harder.  
+But by removing friction, waste, and unnecessary decisions.
 
 ---
 
-## Who is Q?
+## What becomes possible
 
-I’m Q, founder of Marqui.
+When work is engineered instead of improvised,
+new things become realistic.
 
-For many years, I worked in high-stakes R&D environments,
-where mistakes were expensive and systems had to work under pressure.
+For example:
 
-At the same time, I built and sold my own digital products and companies.
+- A company that runs without constant meetings  
+- A team that moves fast without burnout  
+- Decisions that are made once, not every day  
+- Growth without losing control  
+- Technology that replaces stress, not people  
 
-Some did well.
-Some didn’t.
-More than once, I left value on the table at exit.
+These are not dreams.
+They are design problems.
 
-Not because the ideas were wrong,
-but because the systems behind them were fragile.
+This site explores how those problems can be solved.
 
-This site is where I document what I learned,
-and how I now approach business with more clarity and less chaos.
+---
+
+## Engineering, but for real life
+
+Engineering does not mean “cold” or “technical”.
+
+It means:
+- thinking clearly  
+- testing ideas in reality  
+- fixing weak points early  
+- building things that keep working when you step away  
+
+The same mindset that builds reliable systems
+can also build better businesses and better work lives.
+
+That is the core idea behind everything you’ll read here.
 
 ---
 
@@ -72,14 +86,19 @@ and how I now approach business with more clarity and less chaos.
 
 <span class="callout-label">2026 Public Experiment</span>
 
-In 2026, part of this work is applied to a live experiment:
-running a real company using AI-driven decision systems.
+In 2026, this way of thinking is pushed to the limit.
 
-The goal is not to remove people,
-but to understand where human judgment is needed —
-and where it can safely step back.
+A real business is being operated using AI-driven systems.
+Not as a demo.
+Not as a theory.
+But as a live experiment.
 
-Everything is documented as engineering logs.
+The goal is simple:
+see how much complexity, noise, and human overload
+can be removed — without breaking the business.
+
+This experiment is relevant for:
+founders, operators, and large organizations alike.
 
 <a class="callout-link" href="/notes/2026/001-operating-a-company-as-a-system">
 Read the first log → Operating a Company as a System
@@ -89,20 +108,31 @@ Read the first log → Operating a Company as a System
 
 ---
 
-## How to read this site
+## How to use this site
 
-Each note focuses on one idea, question, or system.
-
-You don’t need to read things in order.
+You don’t need to read everything.
+There is no order.
 There is no feed.
-No algorithm.
-No “latest post” pressure.
 
-You can start anywhere.
-Follow what feels relevant.
+Each note explores one idea, system, or question.
+Some are practical.
+Some are conceptual.
+All are written from real use.
+
+Read what interests you.
+Leave the rest.
 Come back later.
 
-Over time, the notes connect into a larger picture.
+Over time, the pieces connect.
+
+---
+
+## Start here
+
+If you want a good entry point, these notes are useful:
+
+- [Why GitHub Is the Best Blog Platform for Serious Thinking](/notes/meta/001-github-as-a-blog)
+
 
 ---
 
