@@ -2,6 +2,7 @@
 title: Why GitHub Is the Best Blog Platform for Serious Thinking
 date: 2026-01-02
 category: Meta
+layout: note
 ---
 
 ## Why this matters
