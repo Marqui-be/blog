@@ -3,104 +3,107 @@ layout: default
 title: Q’s Logs
 ---
 
-## Q’s Logs
+# Q’s Logs
 
-Q’s Logs is a public engineering log.
+Q’s Logs is a public place where I think in the open.
 
-It documents how businesses, decision systems, and automation are designed
-when the goal is not growth for growth’s sake,
-but leverage, clarity, and durability.
+Here, I write about how companies can be built in a calmer, more structured way.
+Not with motivation or hype, but with systems that actually hold up over time.
 
-This is not a blog.
+This is not a blog with tips.
 It is not a course.
-It is not a marketing channel.
+And it is not content written to perform.
 
-It is a place where systems are made observable.
+It is a working log of how decisions are made, tested, and sometimes changed.
+
+---
+
+## Why this exists
+
+Most founders don’t fail because they lack ideas.
+They fail because everything becomes heavy as the company grows.
+
+More meetings.
+More pressure.
+More effort.
+But not much more return.
+
+I’ve lived that problem myself.
+
+These logs exist to explore another path:
+building companies the way engineers build systems.
+
+Start from the end goal.
+Work backwards.
+Remove weak points one by one.
+Design businesses that can run without constant heroics.
+
+What you’ll find here is not opinion.
+It is thinking in motion.
+
+Some notes are rough.
+Some are revised.
+All are written from real use.
 
 ---
 
 ## Who is Q?
 
-Q is the founder of Marqui.
+I’m Q, founder of Marqui.
 
-For over fifteen years, Q worked in R&D on high-stakes, classified systems.
-In parallel, he built and sold digital products and companies of his own.
+For many years, I worked in high-stakes R&D environments,
+where mistakes were expensive and systems had to work under pressure.
 
-Some worked.
+At the same time, I built and sold my own digital products and companies.
+
+Some did well.
 Some didn’t.
-Several exits left significant value on the table.
+More than once, I left value on the table at exit.
 
-Not because the ideas were weak,
+Not because the ideas were wrong,
 but because the systems behind them were fragile.
 
-These logs are written from that tension:
-engineering discipline applied to entrepreneurial reality.
-
----
-
-## Why these logs exist
-
-Most founders work harder as companies grow.
-Effort increases.
-Return does not.
-
-Q’s Logs exist to explore a different approach:
-
-- start from the end goal
-- work backwards
-- remove failure points systematically
-- design businesses that run without constant heroics
-
-What you’ll find here are not opinions,
-but evolving models, constraints, and decisions.
-
-Some are unfinished.
-Some are revised.
-All are grounded in real use.
+This site is where I document what I learned,
+and how I now approach business with more clarity and less chaos.
 
 ---
 
 <div class="callout">
-  <span class="callout-label">2026 Public Experiment</span>
 
-  <p>In 2026, part of this work is applied to a live experiment: operating a real company using AI-driven decision systems.</p>
+<span class="callout-label">2026 Public Experiment</span>
 
-  <p>The goal is not automation for its own sake, but to test where human judgment can be removed, constrained, or delayed without breaking the business.</p>
+In 2026, part of this work is applied to a live experiment:
+running a real company using AI-driven decision systems.
 
-  <a class="callout-link" href="/notes/2026/001-operating-a-company-as-a-system">
-    Read the first log → Operating a Company as a System
-  </a>
+The goal is not to remove people,
+but to understand where human judgment is needed —
+and where it can safely step back.
+
+Everything is documented as engineering logs.
+
+<a class="callout-link" href="/notes/2026/001-operating-a-company-as-a-system">
+Read the first log → Operating a Company as a System
+</a>
+
 </div>
-
-
 
 ---
 
 ## How to read this site
 
-Each note focuses on a single idea or system.
+Each note focuses on one idea, question, or system.
 
-They are written to be:
-- read non-linearly
-- referenced later
-- connected to other notes
+You don’t need to read things in order.
+There is no feed.
+No algorithm.
+No “latest post” pressure.
 
-There is no feed to follow.
-No algorithm to please.
+You can start anywhere.
+Follow what feels relevant.
+Come back later.
 
-You are encouraged to start anywhere
-and follow the ideas that matter to you.
-
----
-
-## Start here
-
-If this is your first visit, these notes provide useful context:
-
-- [Why GitHub Is the Best Blog Platform for Serious Thinking](/notes/meta/001-github-as-a-blog)
-
+Over time, the notes connect into a larger picture.
 
 ---
 
-## Ongoing work
-_These logs are part of an ongoing public experiment by Marqui._
+_This site is part of an ongoing public experiment by Marqui._
