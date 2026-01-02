@@ -60,9 +60,9 @@ All are grounded in real use.
 
 ---
 
-<div class="callout callout-experiment">
+<div class="callout experiment">
 
-**2026 Public Experiment**
+<span class="callout-label">2026 Public Experiment</span>
 
 In 2026, part of this work is applied to a live experiment:
 operating a real company using AI-driven decision systems.
@@ -71,11 +71,12 @@ The goal is not automation for its own sake,
 but to test where human judgment can be removed,
 constrained, or delayed without breaking the business.
 
-The experiment is documented as engineering logs.
-
-→ [Read the first log: Operating a Company as a System](/notes/2026/001-operating-a-company-as-a-system)
+<a class="callout-link" href="/notes/2026/001-operating-a-company-as-a-system">
+Read the first log → Operating a Company as a System
+</a>
 
 </div>
+
 
 ---
 
@@ -101,21 +102,9 @@ and follow the ideas that matter to you.
 If this is your first visit, these notes provide useful context:
 
 - [Why GitHub Is the Best Blog Platform for Serious Thinking](/notes/meta/001-github-as-a-blog)
-- [Content Is Not Marketing. It’s a System.](/notes/meta/002-content-as-a-system)
-- [Decision Latency as a Hidden Growth Bottleneck](/notes/systems/decision-latency)
+
 
 ---
 
 ## Ongoing work
-
-Some notes are part of longer-running experiments.
-
-In 2026, one such experiment explores how far a real company
-can be operated using AI-driven decision systems.
-
-Those logs will be marked clearly
-and can be read independently from the rest of the site.
-
----
-
 _These logs are part of an ongoing public experiment by Marqui._
