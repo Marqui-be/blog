@@ -2,3 +2,5 @@ title: Q’s Logs
 description: Public engineering notes by Q
 markdown: kramdown
 theme: minima
+baseurl: "/blog"
+url: "https://marqui-be.github.io"
