@@ -3,109 +3,143 @@ layout: default
 title: Q’s Logs
 ---
 
-# The engineering behind Marqui.
+# These are our internal notes.
 
-This is where Marqui’s systems are designed.
+This site shows how Marqui really works.
 
-Before there are tools.
-Before there are offers.
-Before there are results.
+Not the offers.
+Not the cases.
+Not the sales story.
 
-This site documents how businesses are analysed, simplified,
-and rebuilt to produce more profit with less effort.
+This is the lab.
 
-Nothing here is written to sell.
-Everything here exists to think clearly.
+Here we write down how we turn normal businesses
+into machines that make profit with less effort.
 
----
+Most of this work is public.
+Some of it becomes products.
+Some of it becomes investments.
 
-## What this is
-
-Q’s Logs is a public engineering log.
-
-It shows how we:
-- find hidden profit
-- remove bottlenecks
-- reduce human load
-- turn fragile businesses into stable systems
-
-These notes are not theories.
-They are working documents.
-
-Some ideas make it into products.
-Some become internal playbooks.
-Some fail and are discarded.
-
-All of them are tested against real companies.
+All of it starts here.
 
 ---
 
-## Why this exists
+## What you are looking at
 
-Most businesses don’t have a growth problem.
-They have a **design problem**.
+Q’s Logs is a collection of behind-the-scenes notes.
 
+They show how we think about:
+- profit
+- systems
+- automation
+- decisions
+- scale
+
+These are not polished articles.
+They are working notes.
+
+The kind of notes you normally never get to see.
+
+---
+
+## Why we share this
+
+Most companies waste a lot of energy.
+
+Not because people are lazy.
+But because the system is bad.
+
+Too many steps.
 Too many decisions.
-Too many manual steps.
-Too much effort spent on things that don’t compound.
+Too much work that does not move profit.
 
-At Marqui, we don’t fix this with motivation or advice.
-We fix it with structure.
+At Marqui, we don’t fix this with advice.
+We fix it with design.
 
-This site exists to document that structure:
-the thinking, models, and trade-offs behind our work.
+We build systems that do the work instead of people.
+
+This site exists to show how that is done.
+
+Openly.
+
+---
+
+## What Marqui actually does
+
+Marqui uses these systems to:
+- invest in companies
+- rebuild how they work
+- and turn them into profit engines
+
+That is our front office.
+
+But most of the real work happens before that.
+In thinking.
+In testing.
+In writing things down.
+In killing bad ideas early.
+
+That work lives here.
+
+Free to read.
+Free to use.
+Free to learn from.
 
 ---
 
 ## Who this is for
 
-This is not for everyone.
+This is for people who look at a business and think:
 
-It is for people who:
-- run companies
-- make decisions
-- feel the weight of complexity
-- want leverage, not busyness
+“Why is this so heavy?”
+“Why does everything need so much effort?”
+“There must be a smarter way.”
 
 Founders.
+Managers.
 Operators.
-Leadership teams.
-And organizations that are already working —
-but know they could work much better.
+Executives.
+Anyone who cares about leverage.
+
+If you like simple systems that replace hard work,
+you are in the right place.
 
 ---
 
-## How we think
+## How we work
 
-Our approach is simple, but strict:
+We always do the same thing.
 
-1. Define the end state clearly  
-2. Measure what blocks it  
-3. Engineer systems that remove the block  
+We decide what the business should look like
+when it works perfectly.
 
-No intuition-driven scaling.
-No hero roles.
-No permanent firefighting.
+Then we work backwards.
 
-If a result matters, it must be designed.
+Every step that creates friction gets removed.
+Every task that can be automated gets automated.
+Every decision that repeats gets turned into a rule.
+
+No motivation.
+No hustle.
+Just design.
 
 ---
 
 <div class="callout">
 
-<span class="callout-label">2026 System Experiment</span>
+<span class="callout-label">2026 Experiment</span>
 
-In 2026, these ideas are tested end-to-end.
+In 2026, we take this to the extreme.
 
-A real business is operated using AI-driven systems.
-The goal is not automation for show,
-but to answer one precise question:
+We run a real company using AI systems.
+Not as a demo.
+Not as content.
 
-**How much human effort is actually required  
-to run a profitable company?**
+But to answer one simple question:
 
-The answers matter far beyond startups —
-especially for larger organizations.
+**How much human work does a company really need?**
+
+Everything is documented here.
 
 <a class="callout-link" href="/notes/2026/001-operating-a-company-as-a-system">
 Read the first log → Operating a Company as a System
@@ -115,29 +149,27 @@ Read the first log → Operating a Company as a System
 
 ---
 
-## How to use this site
+## How to read this site
 
-You don’t need to read everything.
 There is no order.
+There is no feed.
 
-Each note explores one problem, system, or decision.
-Some are technical.
-Some are strategic.
+Each note stands on its own.
 
-Read what is relevant.
-Ignore the rest.
+Read one.
+Skip ten.
+Come back later.
 
-If this way of thinking makes sense to you,
-you will understand how Marqui works.
-
----
-
-## Entry points
-
-- [Why GitHub Is the Best Platform for Serious Thinking](/notes/meta/001-github-as-a-blog)
-- [Content Is Infrastructure, Not Marketing](/notes/meta/002-content-as-a-system)
-- [Decision Latency as a Business Cost](/notes/systems/decision-latency)
+Over time, the picture becomes clear.
 
 ---
 
-_This site documents the engineering work behind Marqui._
+## Start here
+
+If you want a good first look:
+
+- [Why GitHub Is the Best Place for Serious Thinking](/notes/meta/001-github-as-a-blog)
+
+---
+
+_These are the internal notes of Marqui’s engineering lab._
