@@ -1,176 +1,72 @@
 ---
 layout: default
-title: Q’s Logs
+title: Home
 ---
 
-# The engineering behind Marqui.
-_These are our internal notes._
+<div class="hero">
+  <div class="hero-kicker">Marqui Engine</div>
+  <h1>The engineering behind Marqui.</h1>
+  <p class="hero-lead">Behind-the-scenes systems, models, and experiments. Built in public. Used in real companies.</p>
 
-This site shows how Marqui really works.
+  <div class="hero-actions">
+    <a class="btn" href="/browse">Browse the library</a>
+    <a class="btn btn-ghost" href="https://marqui.org" target="_blank" rel="noopener">Go to Marqui.org</a>
+  </div>
+</div>
 
-Not the offers.
-Not the cases.
-Not the sales story.
+<div class="grid2">
 
-This is the lab.
+<div class="panel">
+  <h2>What this is</h2>
+  <p>This site is our lab notebook. It shows how we build systems that turn businesses into profit machines.</p>
+  <p>No hype. No “thought leadership”. Just the work.</p>
+</div>
 
-Here we write down how we turn normal businesses
-into machines that make profit with less effort.
-
-Most of this work is public.
-Some of it becomes products.
-Some of it becomes investments.
-
-All of it starts here.
-
----
-
-## What you are looking at
-
-Q’s Logs is a collection of behind-the-scenes notes.
-
-They show how we think about:
-- profit
-- systems
-- automation
-- decisions
-- scale
-
-These are not polished articles.
-They are working notes.
-
-The kind of notes you normally never get to see.
-
----
-
-## Why we share this
-
-Most companies waste a lot of energy.
-
-Not because people are lazy.
-But because the system is bad.
-
-Too many steps.
-Too many decisions.
-Too much work that does not move profit.
-
-At Marqui, we don’t fix this with advice.
-We fix it with design.
-
-We build systems that do the work instead of people.
-
-This site exists to show how that is done.
-
-Openly.
-
----
-
-## What Marqui actually does
-
-Marqui uses these systems to:
-- invest in companies
-- rebuild how they work
-- and turn them into profit engines
-
-That is our front office.
-
-But most of the real work happens before that.
-In thinking.
-In testing.
-In writing things down.
-In killing bad ideas early.
-
-That work lives here.
-
-Free to read.
-Free to use.
-Free to learn from.
-
----
-
-## Who this is for
-
-This is for people who look at a business and think:
-
-“Why is this so heavy?”
-“Why does everything need so much effort?”
-“There must be a smarter way.”
-
-Founders.
-Managers.
-Operators.
-Executives.
-Anyone who cares about leverage.
-
-If you like simple systems that replace hard work,
-you are in the right place.
-
----
-
-## How we work
-
-We always do the same thing.
-
-We decide what the business should look like
-when it works perfectly.
-
-Then we work backwards.
-
-Every step that creates friction gets removed.
-Every task that can be automated gets automated.
-Every decision that repeats gets turned into a rule.
-
-No motivation.
-No hustle.
-Just design.
-
----
-
-<div class="callout">
-
-<span class="callout-label">2026 Experiment</span>
-
-In 2026, we take this to the extreme.
-
-We run a real company using AI systems.
-Not as a demo.
-Not as content.
-
-But to answer one simple question:
-
-**How much human work does a company really need?**
-
-Everything is documented here.
-
-<a class="callout-link" href="/notes/2026/001-operating-a-company-as-a-system">
-Read the first log → Operating a Company as a System
-</a>
+<div class="panel">
+  <h2>What you’ll find</h2>
+  <ul class="cleanlist">
+    <li>Profit and bottleneck models</li>
+    <li>Automation and AI workflows</li>
+    <li>Decision systems and dashboards</li>
+    <li>Playbooks we test in real companies</li>
+  </ul>
+</div>
 
 </div>
 
----
+<div class="callout">
+  <span class="callout-label">2026 Experiment</span>
+  <p>In 2026 we run a real company using AI-driven systems. Not as a demo. As a test.</p>
+  <p><strong>Question:</strong> how little human work is needed before performance breaks?</p>
+  <a class="callout-link" href="/notes/2026/001-operating-a-company-as-a-system">Read the first log → Operating a Company as a System</a>
+</div>
 
-## How to read this site
+<div class="grid3">
 
-There is no order.
-There is no feed.
+<div class="card">
+  <div class="card-title">Start here</div>
+  <p class="card-text">A quick entry point to understand how we think.</p>
+  <a class="card-link" href="/notes/meta/001-github-as-a-blog">Why GitHub works for serious thinking →</a>
+</div>
 
-Each note stands on its own.
+<div class="card">
+  <div class="card-title">How we publish</div>
+  <p class="card-text">Content as infrastructure. Low friction. High output.</p>
+  <a class="card-link" href="/notes/meta/002-content-as-a-system">Content is infrastructure →</a>
+</div>
 
-Read one.
-Skip ten.
-Come back later.
+<div class="card">
+  <div class="card-title">A real business cost</div>
+  <p class="card-text">Why slow decisions quietly kill profit and speed.</p>
+  <a class="card-link" href="/notes/systems/decision-latency">Decision latency →</a>
+</div>
 
-Over time, the picture becomes clear.
+</div>
 
----
+<div class="divider"></div>
 
-## Start here
-
-If you want a good first look:
-
-- [Why GitHub Is the Best Place for Serious Thinking](/notes/meta/001-github-as-a-blog)
-
----
-
-_These are the internal notes of Marqui’s engineering lab._
+<div class="panel">
+  <h2>How this connects to Marqui</h2>
+  <p>Marqui applies these systems in established businesses to increase profit and reduce operational load.</p>
+  <p>This site stays public. Marqui’s work stays measurable.</p>
+</div>
