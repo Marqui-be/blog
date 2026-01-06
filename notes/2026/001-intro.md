@@ -1,15 +1,19 @@
 ---
 title: "I’m Betting €1M That AI Can Run My Business in 2026"
-date: 2026-01-03
+date: 2026-01-01
 description: "Not to replace humans, but to build guardrails that make businesses reliable, scalable, and ready to sell."
 tags: [project-q, marqui, ai, systems, scaling, exit]
 ---
 
 > **TL;DR**
 >
-> In 2026, I am investing up to **€1,000,000** to test one idea:
-> **Can a real business run reliably with AI as guardrails, not as a robot CEO?**
+> In 2026, I am betting (investing) up to **€1 000 000** to test one idea:
+> **Can a real business run reliably with AI in 2026?**
+> Not as a robot CEO, but by using AI as guardrails to give the operators super powers
 >
+> AI can do everyting better than a human, or will do it better in the near future.
+> But there is one lay of physics that will make sure humans will remain relevant: entropy.
+> Without the irratinal need for humans to burn huge amounts of energy for long stretches of time to acchieve a finctional goal, nothing would relly happen at all. AI has no drive to accomplish anything. We are the reason it exists.
 > The human stays responsible for vision, people, and judgment.
 > The system handles standards, execution, checks, and follow-through.
 >
